@@ -46,7 +46,7 @@ async def ForceSub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="ѕσмєтнιηg ωєηт ωяσηg. Contact my [ѕυρρσят gяσυρ](https://t.me/Dads_links).",
+            text="ѕσмєтнιηg ωєηт ωяσηg. Contact my [ѕυρρσят gяσυρ](https://t.me/PBX1_SUPPORT_CHAT).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
