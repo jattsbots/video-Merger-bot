@@ -30,9 +30,9 @@ async def UploadVideo(bot: Client, cb: CallbackQuery, merged_vid_path: str, widt
                 ),
                 reply_markup=InlineKeyboardMarkup(
                     [
-                        [InlineKeyboardButton("👨‍💻 ∂єνєℓσρєя 👨‍💻", url="https://t.me/Dads_links")],
-                        [InlineKeyboardButton("⭕ ѕυρρσят ⭕", url="https://t.me/Dads_links"),
-                         InlineKeyboardButton("⭕ ¢нαηηєℓ ⭕", url="https://t.me/Dads_links")]
+                        [InlineKeyboardButton("👨‍💻 ∂єνєℓσρєя 👨‍💻", url="https://t.me/PBX1_OP")],
+                        [InlineKeyboardButton("⭕ ѕυρρσят ⭕", url="https://t.me/PBX1_SUPPORT_CHAT"),
+                         InlineKeyboardButton("⭕ ¢нαηηєℓ ⭕", url="https://t.me/PBX1_BOTS")]
                     ]
                 )
             )
@@ -51,9 +51,9 @@ async def UploadVideo(bot: Client, cb: CallbackQuery, merged_vid_path: str, widt
                 ),
                 reply_markup=InlineKeyboardMarkup(
                     [
-                        [InlineKeyboardButton("👨‍💻 ∂єνєℓσρєя 👨‍💻", url="https://t.me/Dads_links")],
-                        [InlineKeyboardButton("⭕ ѕυρρσят ⭕", url="https://t.me/Dads_links"),
-                         InlineKeyboardButton("⭕ ¢нαηηєℓ ⭕", url="https://t.me/Dads_links")]
+                        [InlineKeyboardButton("👨‍💻 ∂єνєℓσρєя 👨‍💻", url="https://t.me/PBX1_OP")],
+                        [InlineKeyboardButton("⭕ ѕυρρσят ⭕", url="https://t.me/PBX1_SUPPORT_CHAT"),
+                         InlineKeyboardButton("⭕ ¢нαηηєℓ ⭕", url="https://t.me/PBX1_BOTS")]
                     ]
                 )
             )
